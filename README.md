@@ -1,1 +1,1 @@
-#https://alexshabeko.github.io/rsschool-cv/cv
+#https://alexshabeko.github.io/rsschool-cv/
